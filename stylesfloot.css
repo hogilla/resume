@@ -1,0 +1,13 @@
+img 
+{ float: right;
+	width: 50%;
+}	
+
+p
+{ float: left;
+	width: 50%;
+}
+
+carousel-inner
+{ float: left;
+}
